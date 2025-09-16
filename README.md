@@ -1,7 +1,7 @@
-# Wizard’s Intent — An Intent-Centric Interactive Frontend Prototype
+# Wizard’s Intent（意图战记） — An Intent-Centric Interactive Frontend Prototype
 
 ## Overview  
-**Wizard’s Intent** is an H5-based interactive prototype that uses a retro **8-bit game-inspired interface** to demonstrate **Anoma’s intent-centric architecture**.  
+**Wizard’s Intent（意图战记）** is an H5-based interactive prototype that uses a retro **8-bit game-inspired interface** to demonstrate **Anoma’s intent-centric architecture**.  
 Through the story of a young wizard saving the Anoma continent, the project makes complex ideas tangible by comparing **traditional multi-step transactions** with **one-click intent-driven operations**.
 
 ---
@@ -9,7 +9,7 @@ Through the story of a young wizard saving the Anoma continent, the project make
 ## Core Highlights  
 
 ### 1️⃣ Project Overview  
-Wizard’s Intent is an **interactive frontend prototype** that blends **retro game aesthetics** with **intent-centric logic**, turning technical concepts into a fun and educational experience.  
+Wizard’s Intent（意图战记） is an **interactive frontend prototype** that blends **retro game aesthetics** with **intent-centric logic**, turning technical concepts into a fun and educational experience.  
 
 ### 2️⃣ Intent-Centric Transactions  
 Players first experience **traditional, multi-step processes** (e.g., gem → token A → token B → gold → weapon purchase) and then compare it with **a single intent click** that achieves the same result.  
@@ -32,7 +32,7 @@ The prototype adopts a **3DS-style dual-screen layout**:
 This approach makes the prototype **approachable for newcomers** while retaining **technical relevance for experts**.  
 
 ### 7️⃣ Value Summary  
-Wizard’s Intent is more than a game—it is a **lightweight, interactive, and visual demo tool**.  
+Wizard’s Intent（意图战记） is more than a game—it is a **lightweight, interactive, and visual demo tool**.  
 It makes **Anoma’s intent-centric paradigm** visible, understandable, and engaging, making it ideal for **community events, educational showcases, and competition submissions**.  
 
 ---
@@ -46,3 +46,9 @@ It makes **Anoma’s intent-centric paradigm** visible, understandable, and enga
 ---
 
 ## Repository Structure  
+📂 wizard-intent
+┣ 📂 assets/ # 8-bit style graphics & UI elements
+┣ 📂 src/ # Game scripts & frontend logic
+┣ 📂 demo/ # Sample demo pages
+┣ 📜 index.html # Main entry
+┣ 📜 README.md # Project documentation
